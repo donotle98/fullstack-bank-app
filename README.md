@@ -1,3 +1,11 @@
+-Postgres database from Node.js
+-Secured APIs using JWT authentication
+-Maintain login session until user manually performs a logout
+-Perform CRUD operations in PostgreSQL from Node.js
+-Dynamically generate pdf to get list of transactions within selected date range
+-Automatically download any type of file including pdf file
+-Thanks to Yogash Chavan
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
