@@ -4,7 +4,7 @@
 -Perform CRUD operations in PostgreSQL from Node.js
 -Dynamically generate pdf to get list of transactions within selected date range
 -Automatically download any type of file including pdf file
--Thanks to Yogash Chavan
+-Thanks to Yogash Chavan @ Medium
 
 # Getting Started with Create React App
 
