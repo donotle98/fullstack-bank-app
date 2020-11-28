@@ -1,10 +1,15 @@
--Postgres database from Node.js
--Secured APIs using JWT authentication
--Maintain login session until user manually performs a logout
--Perform CRUD operations in PostgreSQL from Node.js
--Dynamically generate pdf to get list of transactions within selected date range
--Automatically download any type of file including pdf file
--Thanks to Yogash Chavan @ Medium
+# Full stack banking application
+<span>This was an example application to learn the basics of a full stack application</span>
+<p>The app will allow users to sign up and logout, a database of users is kept and will remember the users login and keep state.</p>
+<ul>
+  <li>Postgres database from Node.js</li>
+  <li>Secured APIs using JWT authentication</li>
+  <li>Maintain login session until user manually performs a logout</li>
+  <li>Perform CRUD operations in PostgreSQL from Node.js</li>
+  <li>Dynamically generate pdf to get list of transactions within selected date range</li>
+  <li>Automatically download any type of file including pdf file</li>
+  <li>Thanks to Yogash Chavan @ Medium</li>
+</ul>
 
 # Getting Started with Create React App
 
